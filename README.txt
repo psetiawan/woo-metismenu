@@ -1,5 +1,5 @@
 # woo-metismenu
-WooCommerce Responsive Product Category MetisMenu
+WooCommerce Responsive Product Category
 
 This is a Wordpress Plugin that work as a widget
 the purpose is displaying WooCommerce Product Category as a widget
@@ -12,3 +12,6 @@ When at mobile, childmenu will display below its parent.
 Requirements :
 WooCommerce
 BootStrap 3 (optional, for displaying arrow)
+
+Thanks to :
+MetisMenu
