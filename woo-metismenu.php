@@ -1,8 +1,8 @@
 <?php
 /**
-* Plugin Name: WooCommerce Responsive Category MetisMenu
+* Plugin Name: Woo Responsive Product Category
 * Plugin URI: http://sketsaweb.com/
-* Description: Display WooCommerce Product Categories Widget MetisMenu
+* Description: Display WooCommerce Product Categories Widget in Responsive
 * Version: 1.0
 * Author: Ponco
 * Author URI: http://sketsaweb.com
