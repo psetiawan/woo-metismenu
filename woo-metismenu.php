@@ -39,7 +39,7 @@ parent::__construct(
 'woometismenu_widget', 
 
 // Widget name will appear in UI
-__('WooCommerce MetisMenu Category Widget', 'woometismenu'), 
+__('Woo Responsive Product Category', 'woometismenu'), 
 
 // Widget description
 array( 'description' => __( 'Display WooCommerce MetisMenu Category Widget', 'woometismenu' ), ) 
